@@ -23,7 +23,7 @@
         <!-- end content -->
 
         <footer class="c-footer">
-          <div><strong>APLIKASI KASIR</strong> &copy; 2022 - SantriKoding.com.</div>
+          <div><strong>APLIKASI KASIR</strong> &copy; 2022 - Yan Afriyoko.com.</div>
         </footer>
       </div>
     </div>
