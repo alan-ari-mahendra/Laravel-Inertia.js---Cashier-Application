@@ -126,7 +126,7 @@
                 Alamat: Desa Gedangalas, Kec. Gajah, Kab. Demak
             </div>
             <div style="text-align: center">
-                Telp: 0857-9087-9087
+                Telp: 0857-9087-9089
             </div>
         </div>
 
